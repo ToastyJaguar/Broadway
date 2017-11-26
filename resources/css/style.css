@@ -33,6 +33,10 @@ h1, h2, h3 {
   font-size: 32px;
 }
 
+.supporting h3 {
+  font-size: 23px;
+}
+
 .supporting-item p {
   font-size: 14px;
 }
